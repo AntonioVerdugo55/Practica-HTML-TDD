@@ -145,7 +145,7 @@ nav {
     margin: 28px 0 0 0;
     width: 130px;
     display: inline-block;
-    background: #1FDE82;
+    background: #FF5757;
     text-align: center;
     color: #fff;
     padding: 12px 0;
@@ -190,7 +190,7 @@ nav {
 .articulo>i {
     font-size: 30px;
     color: #fff;
-    background: #1FDE82;
+    background: #FF5757;
     display: inline-block;
     width: 70px;
     height: 70px;
@@ -219,7 +219,7 @@ nav {
 }
 
 .articulo>a:hover {
-    color: #1FDE82;
+    color: #FF5757;
     transition: color .5s;
 }
 
@@ -252,7 +252,7 @@ nav {
     margin: 28px 0 0 0;
     width: 130px;
     display: inline-block;
-    background: #1FDE82;
+    background: #FF5757;
     text-align: center;
     color: #fff;
     padding: 12px 0;
@@ -356,7 +356,7 @@ nav {
 }
 
 .box-skills i {
-    color: #1FDE82;
+    color: #FF5757;
     font-size: 20px;
 }
 
@@ -395,7 +395,7 @@ footer {
 
 
 .partFooter a:hover {
-    color: #1FDE82;
+    color: #FF5757;
 }
 
 .partFooter img {
@@ -420,8 +420,8 @@ footer {
 
 .social-media i:hover {
     color: #fff;
-    background-color: #1FDE82;
-    border-color: #1FDE82;
+    background-color: #FF5757;
+    border-color: #FF5757;
 }
 
 /* Breakpoints responsive */
